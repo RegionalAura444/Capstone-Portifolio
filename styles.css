@@ -1,0 +1,51 @@
+/* .ml-auto, mx-auto{ */
+   /* margin-left: auto !important; */
+/* } */
+
+.navbar-nav
+{
+    margin-left: auto;
+}
+
+.me
+{
+    width: 175px;
+    height: 175px;
+    border-radius: 50% 50%;
+}
+
+.card-img-top
+{
+    transition: transform 0.5s;
+    filter: grayscale(100%);
+}
+
+.card-img-top:hover
+{
+    transform: scale(1.1);
+    filter: grayscale(0%);
+    transition-delay:.1s;
+}
+
+.card-body .btn
+{
+    width: 255px;
+}
+
+.form-group
+{
+    width: 50%;
+    margin: 0 auto;
+}
+
+ .card img
+ {
+    height: 200px;
+    margin: auto;
+}
+
+
+#send
+{
+    width: 100%;
+}
