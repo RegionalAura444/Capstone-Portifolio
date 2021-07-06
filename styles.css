@@ -1,7 +1,10 @@
 /* .ml-auto, mx-auto{ */
    /* margin-left: auto !important; */
 /* } */
-
+body
+{
+    font-family: Oswald,'Courier New', Courier, monospace;
+}
 .navbar-nav
 {
     margin-left: auto;
